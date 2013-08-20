@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Hours Log' target in the 'Hours Log' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
